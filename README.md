@@ -9,4 +9,4 @@ Solidity - smart contracts
 Polygon Chain
 Hard Hat for deployment
 
-See discord pinned messaged for pdf outlining project
+See discord pinned messages for pdf outlining project
